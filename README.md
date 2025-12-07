@@ -86,4 +86,3 @@ curl -X DELETE http://localhost:3000/api/user/logout \
 ## License
 
 Unlicensed (example project).
-```
